@@ -8,12 +8,12 @@ description: "Teach Claude to integrate Chia correctly"
 
 `chia-integration` is a [Claude Code](https://claude.com/claude-code) skill that teaches Claude how Chia actually works, so it writes correct integration code instead of guessing at endpoint shapes and auth modes.
 
-It is distributed as a Claude Code plugin from the [chiasdk repository](https://github.com/fickson/chia-sdk).
+It is distributed as a Claude Code plugin from the [chiasdk repository](https://github.com/joentrust/chia-sdk).
 
 ## Install
 
 ```bash
-/plugin marketplace add fickson/chia-sdk
+/plugin marketplace add joentrust/chia-sdk
 /plugin install chia-integration@chia
 ```
 

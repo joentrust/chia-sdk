@@ -67,6 +67,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/joentrust/chia-sdk.git",
-		"directory": "open/packages/react"
+		"directory": "packages/react"
 	}
 }
